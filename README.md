@@ -28,5 +28,3 @@
 
 ![image](https://github.com/user-attachments/assets/94b4b962-c7b5-4767-af85-c7be5707e5bd)
 
-Файлы есть, все хорошо. 
-
